@@ -13,7 +13,7 @@
         </div>
         <nav>
             <a href="index.html">home</a>
-            <a href="Shop.html">Shop</a>
+            <a href="shop.html">Shop</a>
             <a href="subscription.html">Subscription</a>
             <a href="About-us.html">About Us</a>
             <a href="Contact.html">Contact</a>
@@ -25,7 +25,7 @@
     </header>
     <main class="product-detail">
         <div class="breadcrumb">
-            <a href="home.html">Home</a> / <span>Green Punch</span>
+            <a href="index.html">Home</a> / <span>Green Punch</span>
         </div>
         
         <div class="navigation-buttons">
