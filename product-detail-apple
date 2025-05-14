@@ -12,11 +12,11 @@
             <img src="https://static.wixstatic.com/media/78d9fc_34952818f44041d19aceb1fbdbfe0177~mv2.png/v1/fill/w_195,h_195,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/78d9fc_34952818f44041d19aceb1fbdbfe0177~mv2.png" alt="SipSehat Logo">
         </div>
         <nav>
-            <a href="index.html">home</a>
+            <a href="index.html">Home</a>
             <a href="shop.html">Shop</a>
             <a href="subscription.html">Subscription</a>
-            <a href="About-us.html">About Us</a>
-            <a href="Contact.html">Contact</a>
+            <a href="about-us.html">About Us</a>
+            <a href="contact.html">Contact</a>
             <div class="cart-icon">
                 <span class="cart-count">0</span>
                 🛒
@@ -25,7 +25,7 @@
     </header>
     <main class="product-detail">
         <div class="breadcrumb">
-            <a href="index.html">Home</a> / <span>Green Punch</span>
+            <a href="home.html">Home</a> / <span>Green Punch</span>
         </div>
         
         <div class="navigation-buttons">
@@ -35,18 +35,18 @@
 
         <div class="product-container">
             <div class="product-gallery">
-                <img src="https://static.wixstatic.com/media/93988f5222a942969267e56aa4cb525c.jpg/v1/fill/w_750,h_500,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/93988f5222a942969267e56aa4cb525c.jpg" alt="apple-citrus" class="main-image">
+                <img src="https://static.wixstatic.com/media/93988f5222a942969267e56aa4cb525c.jpg" alt="apple-citrus" class="main-image">
                 <div class="thumbnail-gallery">
-                    <img src="https://static.wixstatic.com/media/93988f5222a942969267e56aa4cb525c.jpg/v1/fill/w_63,h_63,al_c,lg_1,q_80,enc_avif,quality_auto/93988f5222a942969267e56aa4cb525c.jpg" alt="Thumbnail 1">
-                    <img src="https://static.wixstatic.com/media/c837a6_61ade7f51385407c935b14bd04465fbb~mv2.jpg/v1/fill/w_63,h_63,al_c,lg_1,q_80,enc_avif,quality_auto/c837a6_61ade7f51385407c935b14bd04465fbb~mv2.jpg" alt="Thumbnail 2">
+                    <img src="https://static.wixstatic.com/media/93988f5222a942969267e56aa4cb525c.jpg" alt="Thumbnail 1">
+                    <img src="https://static.wixstatic.com/media/c837a6_61ade7f51385407c935b14bd04465fbb~mv2.jpg" alt="Thumbnail 2">
                 </div>
             </div>
 
             <div class="product-info">
                 <h1>Apple Citrus</h1>
                 <p class="sku">SKU: 0002</p>
-                <p class="price">Rp10,00</p>
-                <p class="unit-price">Rp20.00 / 500ml</p>
+                <p class="price">Rp10,000</p>
+                <p class="unit-price">Rp20.000 / 500ml</p>
 
                 <div class="quantity-selector">
                     <label>Quantity *</label>
@@ -74,7 +74,7 @@
                                 <img src="https://static.wixstatic.com/media/93988f5222a942969267e56aa4cb525c.jpg" alt="apple-citrus">
                                 <div class="item-details">
                                     <h3>Apple Citrus</h3>
-                                    <p class="item-price">Rp10,00</p>
+                                    <p class="item-price">Rp10,000</p>
                                     <div class="quantity-controls">
                                         <button class="minus">−</button>
                                         <input type="number" value="1" min="1">
@@ -88,7 +88,7 @@
                         <div class="cart-footer">
                             <div class="subtotal">
                                 <span>Subtotal</span>
-                                <span>Rp10,00</span>
+                                <span>Rp10,000</span>
                             </div>
                             <p class="tax-note">Taxes and shipping are calculated at checkout.</p>
                             <a href="checkout-apple.html" class="view-cart-button">View Cart</a>
@@ -158,7 +158,7 @@
             </div>
         </div>
         <div class="copyright">
-            © 2035 by SipSehat. All rights reserved.
+            © 2025 by SipSehat. All rights reserved.
         </div>
     </footer>
 </body>
